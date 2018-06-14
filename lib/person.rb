@@ -9,7 +9,6 @@ class Person
   end
 end
 
-  
+
 
 jack = Person.new("Jack")
-
