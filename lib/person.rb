@@ -8,7 +8,3 @@ class Person
     @name
   end
 end
-
-  
-
-
