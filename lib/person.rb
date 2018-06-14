@@ -8,3 +8,6 @@ class Person
     @name
   end
 end
+
+jack = Person.new
+jack.name = "Jack"
