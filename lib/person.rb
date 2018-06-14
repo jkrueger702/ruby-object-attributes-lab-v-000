@@ -9,6 +9,7 @@ class Person
   end
 end
 
+  
 
-
-jack = Person.new("Jack")
+jack = Person.new
+jack.name = "Jack"
