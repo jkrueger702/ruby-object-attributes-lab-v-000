@@ -5,11 +5,11 @@ class Person
     end
 
   def name
-  @name
+    @name
   end
 end
 
-  
+
 
 jack = Person.new
 jack.name = "Jack"
